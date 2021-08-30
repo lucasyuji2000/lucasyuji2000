@@ -4,7 +4,7 @@
   <a href="https://github.com/lucasyuji2000">
   <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=lucasyuji2000&hide=prs&show_icons=true&count_private=true&include_all_commits=true&bg_color=33436a&text_color=d5d5c6&title_color=efd032&icon_color=949cbd"/></a>
   <a href="https://github.com/lucasyuji2000">
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasyuji2000&layout=compact&bg_color=33436a&text_color=d5d5c6&title_color=efd032&icon_color=949cbd"/></a>
+  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasyuji2000&layout=compact&hide=html&bg_color=33436a&text_color=d5d5c6&title_color=efd032&icon_color=949cbd"/></a>
 </div>
 
 
