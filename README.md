@@ -1,4 +1,4 @@
-## Welcome stranger 👋
+## Welcome 👋
 
 <div>
   <a href="https://github.com/lucasyuji2000">
